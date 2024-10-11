@@ -1,0 +1,34 @@
+.ipynb_checkpoints/# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+env/
+venv/
+ENV/
+VENV/
+.venv/
+.VENV/
+
+# Ignore Jupyter notebook extensions and configurations
+.jupyter/
+.local/
+.cache/
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore temporary files created by text editors (optional)
+*.swp
+*.swo
+
+# Ignore logs, lockfiles, or temp data (optional)
+*.log
+*.lock
+*.tmp
+
+# Ignore system-specific files (optional)
+Thumbs.db
