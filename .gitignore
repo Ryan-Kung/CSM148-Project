@@ -1,6 +1,6 @@
 .ipynb_checkpoints/# Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
-
+ 
 # Ignore Python bytecode files
 __pycache__/
 *.py[cod]
